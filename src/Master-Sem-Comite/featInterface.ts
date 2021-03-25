@@ -1,3 +1,3 @@
 export const novafeat = (): string=>{
-    return 'Olá mundo'
+    return 'Olá pranois'
 }
